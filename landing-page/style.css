@@ -1,0 +1,131 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    
+}
+
+/* First part starts here */
+
+.first-section {
+    background: #1F2937;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    
+}
+
+.logo {
+    font-size: 24px;
+    font-family: 'Courier New';
+    color: #F9FaF8;
+    font-weight: 700;
+
+    display: flex;
+    align-items: center;
+    
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+    
+}
+
+a {
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+.links {
+   
+}
+
+
+
+
+.description {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+    
+}
+
+
+
+.awesome-text {
+    font-size: 48px;
+    color: #F9FaF8;
+    font-weight: 800;
+    
+}
+
+.awesome-text2 {
+    font-size: 18px;
+    color: #E5E7EB;
+    
+}
+
+                    /* image properties */
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.image-top {
+    width: 600px;
+    height: auto;
+}
+
+button.awesome-btn {
+    background: #3882F6;
+    border: 0;
+    padding: 5px 25px;
+    margin-top: 5px;
+    color: white;
+    border-radius: 8px;
+    font-family: 'Courier New';
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+/* second part starts here */
+
+.second-section {
+
+
+}
+
+/* third part starts here */
+
+.third-section {
+
+
+}
+
+/* fourth part starts here */
+
+.fourth-section {
+
+
+}
+
+.footer {
+    justify-content: center;
+    align-items: center;
+}
